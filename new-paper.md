@@ -2,7 +2,6 @@
 
 - **Paper Title**:
 - **Authors**:
-- **Publication Date**:
 - **Paper Link**:
 - **Comments**:
 - **Rating**:
