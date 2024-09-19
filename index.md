@@ -28,3 +28,10 @@ Welcome to the literature repository! Below you’ll find recent and new papers 
   - **Comments:** Interesting analysis of Z.
   - **Rating:** ⭐⭐⭐⭐
   - **[Link to Paper](https://doi.org/...)**
+ 
+- **Title:** _Another Study on Z_
+  - **Authors:** Author C, Author D
+  - **Publication Date:** March 2023
+  - **Comments:** Interesting analysis of Z.
+  - **Rating:** ⭐⭐⭐⭐
+  - **[Link to Paper](https://doi.org/...)**
